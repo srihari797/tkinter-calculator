@@ -50,5 +50,7 @@ Tkinter (Standard GUI Library in Python)
 Clone the repo and run the script:
 
 git clone https://github.com/srihari797/tkinter-calculator.git
+
 cd tkinter-calculator
+
 python calculator.py
